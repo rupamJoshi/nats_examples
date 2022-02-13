@@ -1,0 +1,1 @@
+{"Created":"2022-02-13T08:54:57.454875526Z","Name":"","durable_name":"monitor","deliver_policy":"all","ack_policy":"explicit","ack_wait":30000000000,"max_deliver":-1,"filter_subject":"ORDERS.*","replay_policy":"instant","max_ack_pending":524288,"deliver_subject":"_INBOX.Kf36rzUd7mrNiN30RZYICh"}
